@@ -1,6 +1,6 @@
 # Account-Ownership-Prediction-using-RandomForestClassifier
 ## Overview
- This machine learning project uses 2025 Global Findex - Philippines Microdata, containing 1,000 cases (survey responses) and 199 variables. The dataset was cleaned and preprocessed using python techniques. After cleaning, investigating, and preprocessing, the dataset was used to turn into a modeled prediction of account ownership with a Random Forest Classifier using synthesized individual-level microdata. The trained model yielded a 70.50% test set accuracy and identified education level as the most important predictor.
+ This machine learning project uses 2024 Global Findex - Philippines Microdata, containing 1,000 cases (survey responses) and 199 variables. The dataset was cleaned and preprocessed using python techniques. After cleaning, investigating, and preprocessing, the dataset was used to turn into a modeled prediction of account ownership with a Random Forest Classifier using synthesized individual-level microdata. The trained model yielded a 70.50% test set accuracy and identified education level as the most important predictor.
 
  ## Result during the analysis
  1. Loaded the JSON File: We parsed /content/Findex/PHL_2024_FINDEX_v02_M.json successfully by handling its nested metadata dictionary structure.
