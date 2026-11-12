@@ -15,15 +15,14 @@
  10. Account displays a nearly even split of 511 without an account (51.1%) vs. 489 with an account (48.9%).
 
 ## Machine Learning Demonstration Results
-1. Predictive Performance
-### **-**Overall Accuracy: 70.50% on the hold-out test set (200 respondents).
-### **-**For Account Holders (Has Account): The model achieved a recall of 94% and precision of 72%, indicating it is highly capable of identifying those who own financial accounts.
-### **-**For Non-Account Holders (No Account): The model had lower recall (19%), which is typical when training on highly structured discrete synthetic probabilities.
-2. Feature Importances
-The trained classifier identified the following hierarchy of importance when predicting financial account ownership:
-### **-**Education Level (education): ~54.8% importance (By far the strongest predictor, matching our synthesis logic that higher education increases access).
-### **-** Urbanicity (urban): ~27.0% importance.
-### **-** Gender (female): ~18.2% importance.
+1. Predictive Performance:
+ - Overall Accuracy: 70.50% on the hold-out test set (200 respondents).
+ - For Account Holders (Has Account): The model achieved a recall of 94% and precision of 72%, indicating it is highly capable of identifying those who own financial accounts.
+ - For Non-Account Holders (No Account): The model had lower recall (19%), which is typical when training on highly structured discrete synthetic probabilities.
+2. Feature Importances:
+ - Education Level (education): ~54.8% importance (By far the strongest predictor, matching our synthesis logic that higher education increases access).
+ - Urbanicity (urban): ~27.0% importance.
+ - Gender (female): ~18.2% importance.
 
 ## Summary of Completed Analyses
 
