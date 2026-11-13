@@ -7,6 +7,7 @@ This analysis leverages metadata from the **Global Findex 2025 (Philippines)** t
 1. **Financial Inclusion Status:**
    * The baseline account ownership rate in the Philippines is **48.9%**, meaning over half of the adult population remains unbanked according to the survey sample.
    * Demographically, women comprise **56.6%** of the sample, while **38.0%** of respondents reside in urban areas.
+   * The survey captures a wide age profile from 15 to 89 years, with a average (mean) age of 40.8 years and a median age of 40.5 years.
 
 2. **Primary Barriers to Financial Inclusion:**
    * **Financial Constraints:** Out of the unbanked respondents, the most commonly cited barrier was **lack of money** to maintain or open an account.
