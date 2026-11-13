@@ -1,11 +1,11 @@
-# Account-Ownership-Prediction-using-RandomForestClassifier
+# Account Ownership Analysis using Global Findex 2025 (Philippines) with Random Forest Classifier for Account Prediction 
 
 ## Project Overview
-This analysis leverages metadata from the **Global Findex 2024 (Philippines)** to evaluate financial inclusion, specifically focusing on the factors that drive account ownership and the primary barriers keeping citizens unbanked.
+This analysis leverages metadata from the **Global Findex 2025 (Philippines)** to evaluate financial inclusion, specifically focusing on the factors that drive account ownership and the primary barriers keeping citizens unbanked.
 
 ### Key Findings
 1. **Financial Inclusion Status:**
-   * The baseline account ownership rate in the Philippines is **48.9%**, meaning over half of the adult population remains unbanked according to the 2024 survey sample.
+   * The baseline account ownership rate in the Philippines is **48.9%**, meaning over half of the adult population remains unbanked according to the survey sample.
    * Demographically, women comprise **56.6%** of the sample, while **38.0%** of respondents reside in urban areas.
 
 2. **Primary Barriers to Financial Inclusion:**
